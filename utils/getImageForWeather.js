@@ -1,12 +1,10 @@
-/* eslint-disable global-require */
-
 
 const images = {
   Clear: require('../assets/clear.png'),
   Hail: require('../assets/hail.png'),
-  'Heavy Cloud': require('../assets/heavy-cloud.png'),
+  'Partially cloudy': require('../assets/heavy-cloud.png'),
   'Light Cloud': require('../assets/light-cloud.png'),
-  'Rain': require('../assets/heavy-rain.png'),
+  'Rain, Overcast': require('../assets/heavy-rain.png'),
   'Light Rain': require('../assets/light-rain.png'),
   Showers: require('../assets/showers.png'),
   Sleet: require('../assets/sleet.png'),
